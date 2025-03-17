@@ -6,7 +6,7 @@ import { Observable, map } from 'rxjs';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private jsonUrl = 'assets/data/employees.json';  // ✅ Correct path
+  private jsonUrl = 'assets/data/employees.json';  
 
 
   constructor(private http: HttpClient) { }

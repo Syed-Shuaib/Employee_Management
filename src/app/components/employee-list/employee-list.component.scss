@@ -2,15 +2,15 @@
   display: flex;
   font-size:14px;
   flex-direction: column;
-  align-items: center; /* Centers the profile blocks */
+  align-items: center;
   justify-content: center;
-  min-height: 100vh; /* Ensures vertical centering */
+  min-height: 100vh; 
 }
 
 .col-md-4 {
   width: 100%;
   display: flex;
-  justify-content: center; /* Centers each card */
+  justify-content: center; 
 }
 
 .card {
@@ -103,13 +103,13 @@
   margin-left: auto;
 }
 .email {
-  margin-left: auto;  /* Pushes everything else to the right */
+  margin-left: auto; 
 }
 
 .btn-primary {
   display: flex;
-  align-items: center;  /* Centers vertically */
-  justify-content: center; /* Centers horizontally (optional) *//* Set height as needed */
+  align-items: center; 
+  justify-content: center;
   text-align: center;
   background-color: transparent;
   color: #007bff;

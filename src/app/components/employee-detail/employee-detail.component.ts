@@ -6,7 +6,7 @@ import { EmployeeService } from '../../services/employee.service';
 @Component({
   selector: 'app-employee-detail',
   standalone: true,
-  imports: [CommonModule], // Add CommonModule for *ngIf
+  imports: [CommonModule], 
   templateUrl: './employee-detail.component.html',
   styleUrls: ['./employee-detail.component.scss']
 })
