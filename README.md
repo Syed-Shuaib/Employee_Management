@@ -2,6 +2,8 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
 
+# For Output Video , Please look into output_video.mp4 in main directory
+
 #How to Run after Fork
 
 1. Install Angular /cli
