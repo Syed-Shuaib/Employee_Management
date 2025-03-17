@@ -12,9 +12,9 @@ npm install -g @angular/cli
 
 2. Build and Run
 
-ng serve 
+ng serve --no-hmr
 
-and follow --no-hmr http://localhost:4200/
+and follow  http://localhost:4200/
 
 
 
