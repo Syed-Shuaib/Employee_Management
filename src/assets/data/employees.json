@@ -1,0 +1,2051 @@
+[
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a2173823799002a6f291f_1577722367887.jpeg",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"engineering_construction",
+               "value":"Engineering & Construction"
+            },
+            "specialization":[
+               {
+                  "key":"quality_assurance_and_quality_control",
+                  "value":"Quality Assurance And Quality Control"
+               },
+               {
+                  "key":"mechanical_engineer",
+                  "value":"Mechanical Engineer"
+               }
+            ]
+         }
+      ],
+      "id":1,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Muthuraj 96",
+      "skills":[
+         {
+            "key":"quality_control",
+            "value":"Quality Control"
+         },
+         {
+            "key":"maintenance",
+            "value":"Maintenance"
+         },
+         {
+            "key":"project_management",
+            "value":"Project Management"
+         },
+         {
+            "key":"quality",
+            "value":"Quality"
+         },
+         {
+            "key":"quality_assurance",
+            "value":"Quality Assurance"
+         },
+         {
+            "key":"mechanical_engineering",
+            "value":"Mechanical Engineering"
+         },
+         {
+            "key":"production",
+            "value":"Production"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"wgldwxgcwe@gmail.com"
+   },
+   {
+      "status":"team handled",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"5 years 3 months",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a20200a87c4002aa60606_1577722198381.jpeg",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"logistics_warehouse",
+               "value":"Logistics & Warehouse"
+            },
+            "specialization":[
+               {
+                  "key":"logistics_warehouse",
+                  "value":"Logistics / Warehouse"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"delivery_driver",
+               "value":"Delivery & Driver"
+            },
+            "specialization":[
+               {
+                  "key":"packers_movers",
+                  "value":"Packers / Movers"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"hospitality_restaurant",
+               "value":"Hospitality & Restaurant"
+            },
+            "specialization":[
+               {
+                  "key":"front_office",
+                  "value":"Front Office"
+               }
+            ]
+         }
+      ],
+      "id":2,
+      "salary":{
+         "current":16000,
+         "expected":{
+            "max":25000,
+            "min":21000
+         }
+      },
+      "name":"Venkataramana Ramisetty",
+      "skills":[
+         {
+            "key":"operations",
+            "value":"Operations"
+         },
+         {
+            "key":"mis",
+            "value":"Mis"
+         },
+         {
+            "key":"administration",
+            "value":"Administration"
+         },
+         {
+            "key":"banking",
+            "value":"Banking"
+         },
+         {
+            "key":"auditing",
+            "value":"Auditing"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"ocxoqarfoe@gmail.com"
+   },
+   {
+      "highest_education":"10+2 Pass",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a08fa7315fa00299b2c19_1577716851624.jpeg",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"retail",
+               "value":"Retail"
+            },
+            "specialization":[
+               {
+                  "key":"retail_sales",
+                  "value":"Retail Sales"
+               }
+            ]
+         }
+      ],
+      "id":3,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Faizan Ahmed",
+      "skills":[
+         {
+            "key":"sales",
+            "value":"Sales"
+         },
+         {
+            "key":"retail",
+            "value":"Retail"
+         },
+         {
+            "key":"retail_sales",
+            "value":"Retail Sales"
+         },
+         {
+            "key":"sales_representative",
+            "value":"Sales Representative"
+         },
+         {
+            "key":"pharma",
+            "value":"Pharma"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"njkusgrtte@gmail.com"
+   },
+   {
+      "highest_education":"10th Pass",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09ff057315fa00299b1ef8_1577714827168.png",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"admin_front_office",
+                  "value":"Admin / Front Office"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"hospitality_restaurant",
+               "value":"Hospitality & Restaurant"
+            },
+            "specialization":[
+               {
+                  "key":"chef_cook",
+                  "value":"Chef & Cook"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"travel_tourism",
+               "value":"Travel & Tourism"
+            },
+            "specialization":[
+               {
+                  "key":"housekeeping",
+                  "value":"Housekeeping"
+               }
+            ]
+         }
+      ],
+      "id":4,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Kapis Chandra",
+      "skills":[
+         {
+            "key":"customer_service",
+            "value":"Customer Service"
+         },
+         {
+            "key":"executive_assistant",
+            "value":"Executive Assistant"
+         },
+         {
+            "key":"back_office",
+            "value":"Back Office"
+         },
+         {
+            "key":"receptionist",
+            "value":"Receptionist"
+         },
+         {
+            "key":"ms_office",
+            "value":"Ms Office"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"axwvekjjxg@gmail.com"
+   },
+   {
+      "status":"",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09edc0823799002a6eeba8_1577709195279.jpeg",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"frontend_web_development",
+                  "value":"Frontend / Web Development"
+               },
+               {
+                  "key":"backend_development",
+                  "value":"Backend Development"
+               }
+            ]
+         }
+      ],
+      "id":5,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":21000
+         },
+         "unit":"monthly"
+      },
+      "name":"DHIRENDRA KUMAR",
+      "skills":[
+         {
+            "key":"front_end",
+            "value":"Front End"
+         },
+         {
+            "key":"java",
+            "value":"Java"
+         },
+         {
+            "key":"web_technologies",
+            "value":"Web Technologies"
+         },
+         {
+            "key":"sql_server",
+            "value":"Sql Server"
+         },
+         {
+            "key":"javascript",
+            "value":"Javascript"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"yqoayczept@gmail.com"
+   },
+   {
+      "status":"",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/1577698269778-308d76107ae0fa126c5e80573b3a187e096a81780ccb58f7d9f6200c0ef9_256x256",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"analytics_data_science",
+                  "value":"Analytics / Data Science"
+               }
+            ]
+         }
+      ],
+      "id":6,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"bala prajapati",
+      "skills":[
+         {
+            "key":"machine_learning",
+            "value":"Machine Learning"
+         },
+         {
+            "key":"sql",
+            "value":"Sql"
+         },
+         {
+            "key":"analytics",
+            "value":"Analytics"
+         },
+         {
+            "key":"business_analyst",
+            "value":"Business Analyst"
+         },
+         {
+            "key":"data_structure",
+            "value":"Data Structure"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"tocjkffcrr@gmail.com"
+   },
+   {
+      "highest_education":"Masters",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09b9cb0248570029619631_1577695956860.png",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"analytics_data_science",
+                  "value":"Analytics / Data Science"
+               }
+            ]
+         }
+      ],
+      "id":7,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Tejaswini av",
+      "skills":[
+         {
+            "key":"data_structure",
+            "value":"Data Structure"
+         },
+         {
+            "key":"sql",
+            "value":"Sql"
+         },
+         {
+            "key":"analytics",
+            "value":"Analytics"
+         },
+         {
+            "key":"machine_learning",
+            "value":"Machine Learning"
+         },
+         {
+            "key":"python",
+            "value":"Python"
+         },
+         {
+            "key":"java",
+            "value":"Java"
+         },
+         {
+            "key":"computer_science",
+            "value":"Computer Science"
+         },
+         {
+            "key":"data_analysis",
+            "value":"Data Analysis"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"qzizrtrkhj@gmail.com"
+   },
+   {
+      "highest_education":"10+2 Pass",
+      "total_experience_in_year":"4 years 8 months",
+      "company":"Self",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09b0b67b39860029321e93_1577693680139.png",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"bpo_telecaller",
+               "value":"BPO & Telecaller"
+            },
+            "specialization":[
+               {
+                  "key":"non_voice_process",
+                  "value":"Non Voice Process"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"back_office_data_entry",
+                  "value":"Back Office / Data Entry"
+               },
+               {
+                  "key":"admin_front_office",
+                  "value":"Admin / Front Office"
+               }
+            ]
+         }
+      ],
+      "id":8,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"kiran kumar",
+      "skills":[
+         
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"jvsfawrwgm@gmail.com"
+   },
+   {
+      "highest_education":"Masters",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09abcf9987eb002976eb08_1577692223465.jpeg",
+      "matching_score":4005.148,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"education",
+               "value":"Education"
+            },
+            "specialization":[
+               {
+                  "key":"teachers",
+                  "value":"Teachers"
+               },
+               {
+                  "key":"lecturer_professors",
+                  "value":"Lecturer / Professors"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"accounts_finance",
+               "value":"Accounts & Finance"
+            },
+            "specialization":[
+               {
+                  "key":"accounts_audit",
+                  "value":"Accounts / Audit"
+               },
+               {
+                  "key":"finance",
+                  "value":"Finance"
+               },
+               {
+                  "key":"banking",
+                  "value":"Banking"
+               }
+            ]
+         }
+      ],
+      "id":9,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Amrutha Gowda",
+      "skills":[
+         {
+            "key":"academics",
+            "value":"Academics"
+         },
+         {
+            "key":"education",
+            "value":"Education"
+         },
+         {
+            "key":"teaching",
+            "value":"Teaching"
+         },
+         {
+            "key":"hardware",
+            "value":"Hardware"
+         },
+         {
+            "key":"web_design",
+            "value":"Web Design"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"aarwrimhwl@gmail.com"
+   },
+   {
+      "highest_education":"Diploma",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0ad6a29b6bb600298c1e6f_1577768756105.png",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"engineering_construction",
+               "value":"Engineering & Construction"
+            },
+            "specialization":[
+               {
+                  "key":"civil_engineer",
+                  "value":"Civil Engineer"
+               },
+               {
+                  "key":"quality_assurance_and_quality_control",
+                  "value":"Quality Assurance And Quality Control"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"safety_security",
+               "value":"Safety & Security"
+            },
+            "specialization":[
+               {
+                  "key":"security",
+                  "value":"Security"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"design_creativity",
+               "value":"Design & Creativity"
+            },
+            "specialization":[
+               {
+                  "key":"artists",
+                  "value":"Artists"
+               }
+            ]
+         }
+      ],
+      "id":10,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Ranjitha R",
+      "skills":[
+         {
+            "key":"quality",
+            "value":"Quality"
+         },
+         {
+            "key":"quality_control",
+            "value":"Quality Control"
+         },
+         {
+            "key":"quality_engineering",
+            "value":"Quality Engineering"
+         },
+         {
+            "key":"project_management",
+            "value":"Project Management"
+         },
+         {
+            "key":"maintenance",
+            "value":"Maintenance"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"ytqauwamlg@gmail.com"
+   },
+   {
+      "highest_education":"Masters",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a5f4c823799002a6f65ff_1577738229670.png",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"human_resource_hr",
+                  "value":"Human Resource (Hr)"
+               }
+            ]
+         }
+      ],
+      "id":11,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Avanthika nair",
+      "skills":[
+         {
+            "key":"communication_skills",
+            "value":"Communication Skills"
+         },
+         {
+            "key":"ms_office",
+            "value":"Ms Office"
+         },
+         {
+            "key":"human_resource_management",
+            "value":"Human Resource Management"
+         },
+         {
+            "key":"consultant",
+            "value":"Consultant"
+         },
+         {
+            "key":"recruitment",
+            "value":"Recruitment"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"mlwvmlibyk@gmail.com"
+   },
+   {
+      "highest_education":"Below 10th",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a25a8e5b1a80029293086_1577723628014.jpeg",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"sales_operations",
+               "value":"Sales & Operations"
+            },
+            "specialization":[
+               {
+                  "key":"after_sales_service",
+                  "value":"After Sales Service"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"healthcare",
+               "value":"Healthcare"
+            },
+            "specialization":[
+               {
+                  "key":"nurse_careworkers",
+                  "value":"Nurse / Careworkers"
+               }
+            ]
+         }
+      ],
+      "id":12,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"neeraj Kumar",
+      "skills":[
+         {
+            "key":"customer_relationship",
+            "value":"Customer Relationship"
+         },
+         {
+            "key":"lead_generation",
+            "value":"Lead Generation"
+         },
+         {
+            "key":"marketing",
+            "value":"Marketing"
+         },
+         {
+            "key":"business_development",
+            "value":"Business Development"
+         },
+         {
+            "key":"sales",
+            "value":"Sales"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"giwegpyjyt@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a1262d78f50002add3fc1_1577718510625.jpeg",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"analytics_data_science",
+                  "value":"Analytics / Data Science"
+               },
+               {
+                  "key":"mobile_development",
+                  "value":"Mobile Development"
+               }
+            ]
+         }
+      ],
+      "id":13,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"buyyani shruthi",
+      "skills":[
+         {
+            "key":"artificial_intelligence",
+            "value":"Artificial Intelligence"
+         },
+         {
+            "key":"machine_learning",
+            "value":"Machine Learning"
+         },
+         {
+            "key":"mobile_development",
+            "value":"Mobile Development"
+         },
+         {
+            "key":"android",
+            "value":"Android"
+         },
+         {
+            "key":"java",
+            "value":"Java"
+         },
+         {
+            "key":"mobile",
+            "value":"Mobile"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"ibexokjbsw@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a0dbd429773002adea341_1577717285450.jpeg",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"back_office_data_entry",
+                  "value":"Back Office / Data Entry"
+               }
+            ]
+         }
+      ],
+      "id":14,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"yashawanth yashu",
+      "skills":[
+         {
+            "key":"back_office",
+            "value":"Back Office"
+         },
+         {
+            "key":"ms_office",
+            "value":"Ms Office"
+         },
+         {
+            "key":"computer_operating",
+            "value":"Computer Operating"
+         },
+         {
+            "key":"bpo",
+            "value":"Bpo"
+         },
+         {
+            "key":"banking",
+            "value":"Banking"
+         },
+         {
+            "key":"business_development",
+            "value":"Business Development"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"bvnccmqatn@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09eeb87315fa00299b0ea1_1577709389831.jpeg",
+      "matching_score":4005.1294,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"safety_security",
+               "value":"Safety & Security"
+            },
+            "specialization":[
+               {
+                  "key":"security",
+                  "value":"Security"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"network_security",
+                  "value":"Network & Security"
+               }
+            ]
+         }
+      ],
+      "id":15,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":25000
+         },
+         "unit":"monthly"
+      },
+      "name":"Shesha sai C",
+      "skills":[
+         {
+            "key":"basic_education",
+            "value":"Basic Education"
+         },
+         {
+            "key":"time_management",
+            "value":"Time Management"
+         },
+         {
+            "key":"loyality",
+            "value":"Loyality"
+         },
+         {
+            "key":"punctuality",
+            "value":"Punctuality"
+         },
+         {
+            "key":"cyber_security",
+            "value":"Cyber Security"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"dmckaolzja@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a3ae25dfc70002a4260e7_1577729054038.png",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"education",
+               "value":"Education"
+            },
+            "specialization":[
+               {
+                  "key":"teachers",
+                  "value":"Teachers"
+               }
+            ]
+         }
+      ],
+      "id":16,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"bijay shaw",
+      "skills":[
+         {
+            "key":"teaching",
+            "value":"Teaching"
+         },
+         {
+            "key":"food_service",
+            "value":"Food Service"
+         },
+         {
+            "key":"organising",
+            "value":"Organising"
+         },
+         {
+            "key":"management",
+            "value":"Management"
+         },
+         {
+            "key":"hall_management",
+            "value":"Hall Management"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"zutfbvykom@gmail.com"
+   },
+   {
+      "status":"interior designer",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"4 years ",
+      "company":"Mobel India Pvt. ltd.",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a37c45dfc70002a425e7d_1577728131841.jpeg",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"education",
+               "value":"Education"
+            },
+            "specialization":[
+               {
+                  "key":"lecturer_professors",
+                  "value":"Lecturer / Professors"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"design_creativity",
+               "value":"Design & Creativity"
+            },
+            "specialization":[
+               {
+                  "key":"interior_designing",
+                  "value":"Interior Designing"
+               }
+            ]
+         }
+      ],
+      "id":17,
+      "salary":{
+         "current":21000,
+         "expected":{
+            "max":40000,
+            "min":36000
+         }
+      },
+      "name":"Sonilata Sahu",
+      "skills":[
+         {
+            "priority":50,
+            "key":"autocad",
+            "value":"Autocad"
+         },
+         {
+            "priority":1128,
+            "key":"design",
+            "value":"Design"
+         },
+         {
+            "priority":527,
+            "key":"interior_design",
+            "value":"Interior Design"
+         },
+         {
+            "priority":49,
+            "key":"data_modeling",
+            "value":"Data Modeling"
+         },
+         {
+            "priority":388,
+            "key":"user_interface_designer",
+            "value":"User Interface Designer"
+         },
+         {
+            "priority":428,
+            "key":"adobe_photoshop",
+            "value":"Adobe Photoshop"
+         },
+         {
+            "priority":48,
+            "key":"texturing",
+            "value":"Texturing"
+         },
+         {
+            "key":"floor_design",
+            "value":"Floor Design"
+         },
+         {
+            "key":"graphic_design",
+            "value":"Graphic Design"
+         },
+         {
+            "key":"kitchen_design",
+            "value":"Kitchen Design"
+         },
+         {
+            "key":"space_planning",
+            "value":"Space Planning"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"nkvqxkpqse@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a2357d78f50002add50f6_1577722913066.jpeg",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"qa_testing_documentation",
+                  "value":"Qa / Testing / Documentation"
+               },
+               {
+                  "key":"database_administrator",
+                  "value":"Database Administrator"
+               }
+            ]
+         }
+      ],
+      "id":18,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":25000
+         },
+         "unit":"monthly"
+      },
+      "name":"aru aru",
+      "skills":[
+         {
+            "key":"sql",
+            "value":"Sql"
+         },
+         {
+            "key":"oracle",
+            "value":"Oracle"
+         },
+         {
+            "key":"manual_testing",
+            "value":"Manual Testing"
+         },
+         {
+            "key":"nosql",
+            "value":"Nosql"
+         },
+         {
+            "key":"sql_server",
+            "value":"Sql Server"
+         },
+         {
+            "key":"data_structure",
+            "value":"Data Structure"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"wpelqzkcnt@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"2 years ",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a0c2c7315fa00299b31fa_1577717834511.jpeg",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"safety_security",
+               "value":"Safety & Security"
+            },
+            "specialization":[
+               {
+                  "key":"security",
+                  "value":"Security"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"accounts_finance",
+               "value":"Accounts & Finance"
+            },
+            "specialization":[
+               {
+                  "key":"accounts_audit",
+                  "value":"Accounts / Audit"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"hospitality_restaurant",
+               "value":"Hospitality & Restaurant"
+            },
+            "specialization":[
+               {
+                  "key":"food_beverage",
+                  "value":"Food & Beverage"
+               }
+            ]
+         }
+      ],
+      "id":19,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"debasis mondal",
+      "skills":[
+         {
+            "key":"punctuality",
+            "value":"Punctuality"
+         },
+         {
+            "key":"time_management",
+            "value":"Time Management"
+         },
+         {
+            "key":"language",
+            "value":"Language"
+         },
+         {
+            "key":"loyality",
+            "value":"Loyality"
+         },
+         {
+            "key":"training",
+            "value":"Training"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"ssozclshtw@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a0240d78f50002add2974_1577714454119.png",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"bpo_telecaller",
+               "value":"BPO & Telecaller"
+            },
+            "specialization":[
+               {
+                  "key":"voice_process",
+                  "value":"Voice Process"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"back_office_data_entry",
+                  "value":"Back Office / Data Entry"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"safety_security",
+               "value":"Safety & Security"
+            },
+            "specialization":[
+               {
+                  "key":"security",
+                  "value":"Security"
+               }
+            ]
+         }
+      ],
+      "id":20,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Hadiya Khanum",
+      "skills":[
+         {
+            "key":"ms_office",
+            "value":"Ms Office"
+         },
+         {
+            "key":"loyality",
+            "value":"Loyality"
+         },
+         {
+            "key":"back_office",
+            "value":"Back Office"
+         },
+         {
+            "key":"data_entry",
+            "value":"Data Entry"
+         },
+         {
+            "key":"bpo",
+            "value":"Bpo"
+         },
+         {
+            "key":"computer_operating",
+            "value":"Computer Operating"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"zrsdesxfnl@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09de4ce5b1a8002928d8fb_1577705152241.jpeg",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"frontend_web_development",
+                  "value":"Frontend / Web Development"
+               },
+               {
+                  "key":"backend_development",
+                  "value":"Backend Development"
+               },
+               {
+                  "key":"network_security",
+                  "value":"Network & Security"
+               }
+            ]
+         }
+      ],
+      "id":21,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Ranjana Patil",
+      "skills":[
+         {
+            "key":"web_technologies",
+            "value":"Web Technologies"
+         },
+         {
+            "key":"front_end",
+            "value":"Front End"
+         },
+         {
+            "key":"javascript",
+            "value":"Javascript"
+         },
+         {
+            "key":"java",
+            "value":"Java"
+         },
+         {
+            "key":"devops",
+            "value":"Devops"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"azsbukeoqc@gmail.com"
+   },
+   {
+      "status":"",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09cccdeb1eda0029862139_1577700846475.png",
+      "matching_score":4005.1558,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"engineering_construction",
+               "value":"Engineering & Construction"
+            },
+            "specialization":[
+               {
+                  "key":"mechanical_engineer",
+                  "value":"Mechanical Engineer"
+               },
+               {
+                  "key":"engineering_iti_diploma",
+                  "value":"Engineering / Iti / Diploma"
+               },
+               {
+                  "key":"quality_assurance_and_quality_control",
+                  "value":"Quality Assurance And Quality Control"
+               }
+            ]
+         }
+      ],
+      "id":22,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"SHASHIKUMAR J",
+      "skills":[
+         {
+            "key":"quality",
+            "value":"Quality"
+         },
+         {
+            "key":"catia",
+            "value":"Catia"
+         },
+         {
+            "key":"design_engineering",
+            "value":"Design Engineering"
+         },
+         {
+            "key":"mechanical_engineering",
+            "value":"Mechanical Engineering"
+         },
+         {
+            "key":"machine_operation",
+            "value":"Machine Operation"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"pomdhnlokx@gmail.com"
+   },
+   {
+      "highest_education":"Masters",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a2f94823799002a6f3655_1577726137146.png",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"engineering_construction",
+               "value":"Engineering & Construction"
+            },
+            "specialization":[
+               {
+                  "key":"engineering_iti_diploma",
+                  "value":"Engineering / Iti / Diploma"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"back_office_data_entry",
+                  "value":"Back Office / Data Entry"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"frontend_web_development",
+                  "value":"Frontend / Web Development"
+               }
+            ]
+         }
+      ],
+      "id":23,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Akshat Tiwari",
+      "skills":[
+         {
+            "key":"_typed",
+            "value":"internet of things"
+         },
+         {
+            "key":"electronics",
+            "value":"Electronics"
+         },
+         {
+            "key":"html_css",
+            "value":"Html / Css"
+         },
+         {
+            "key":"sql",
+            "value":"Sql"
+         },
+         {
+            "key":"_typed",
+            "value":"Python"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"jngpanhqsu@gmail.com"
+   },
+   {
+      "highest_education":"10+2 Pass",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a2205bbb07f00293d48b7_1577722586986.jpeg",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"human_resource_hr",
+                  "value":"Human Resource (Hr)"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"delivery_driver",
+               "value":"Delivery & Driver"
+            },
+            "specialization":[
+               {
+                  "key":"packers_movers",
+                  "value":"Packers / Movers"
+               }
+            ]
+         }
+      ],
+      "id":24,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Prathamesh Dongare",
+      "skills":[
+         {
+            "key":"education",
+            "value":"Education"
+         },
+         {
+            "key":"human_resource_management",
+            "value":"Human Resource Management"
+         },
+         {
+            "key":"field_sales",
+            "value":"Field Sales"
+         },
+         {
+            "key":"consultant",
+            "value":"Consultant"
+         },
+         {
+            "key":"career_development",
+            "value":"Career Development"
+         },
+         {
+            "key":"recruitment",
+            "value":"Recruitment"
+         },
+         {
+            "key":"back_office",
+            "value":"Back Office"
+         },
+         {
+            "key":"lead_generation",
+            "value":"Lead Generation"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"apeovfptdc@gmail.com"
+   },
+   {
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a2173823799002a6f291f_1577722367887.jpeg",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"engineering_construction",
+               "value":"Engineering & Construction"
+            },
+            "specialization":[
+               {
+                  "key":"quality_assurance_and_quality_control",
+                  "value":"Quality Assurance And Quality Control"
+               },
+               {
+                  "key":"mechanical_engineer",
+                  "value":"Mechanical Engineer"
+               }
+            ]
+         }
+      ],
+      "id":25,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Muthuraj 96",
+      "skills":[
+         {
+            "key":"quality_control",
+            "value":"Quality Control"
+         },
+         {
+            "key":"maintenance",
+            "value":"Maintenance"
+         },
+         {
+            "key":"project_management",
+            "value":"Project Management"
+         },
+         {
+            "key":"quality",
+            "value":"Quality"
+         },
+         {
+            "key":"quality_assurance",
+            "value":"Quality Assurance"
+         },
+         {
+            "key":"mechanical_engineering",
+            "value":"Mechanical Engineering"
+         },
+         {
+            "key":"production",
+            "value":"Production"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"hnxyfesasu@gmail.com"
+   },
+   {
+      "status":"team handled",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"5 years 3 months",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a20200a87c4002aa60606_1577722198381.jpeg",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"logistics_warehouse",
+               "value":"Logistics & Warehouse"
+            },
+            "specialization":[
+               {
+                  "key":"logistics_warehouse",
+                  "value":"Logistics / Warehouse"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"delivery_driver",
+               "value":"Delivery & Driver"
+            },
+            "specialization":[
+               {
+                  "key":"packers_movers",
+                  "value":"Packers / Movers"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"hospitality_restaurant",
+               "value":"Hospitality & Restaurant"
+            },
+            "specialization":[
+               {
+                  "key":"front_office",
+                  "value":"Front Office"
+               }
+            ]
+         }
+      ],
+      "id":26,
+      "salary":{
+         "current":16000,
+         "expected":{
+            "max":25000,
+            "min":21000
+         }
+      },
+      "name":"Venkataramana Ramisetty",
+      "skills":[
+         {
+            "key":"operations",
+            "value":"Operations"
+         },
+         {
+            "key":"mis",
+            "value":"Mis"
+         },
+         {
+            "key":"administration",
+            "value":"Administration"
+         },
+         {
+            "key":"banking",
+            "value":"Banking"
+         },
+         {
+            "key":"auditing",
+            "value":"Auditing"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"cjeqhpbyti@gmail.com"
+   },
+   {
+      "highest_education":"10+2 Pass",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e0a08fa7315fa00299b2c19_1577716851624.jpeg",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"retail",
+               "value":"Retail"
+            },
+            "specialization":[
+               {
+                  "key":"retail_sales",
+                  "value":"Retail Sales"
+               }
+            ]
+         }
+      ],
+      "id":27,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Faizan Ahmed",
+      "skills":[
+         {
+            "key":"sales",
+            "value":"Sales"
+         },
+         {
+            "key":"retail",
+            "value":"Retail"
+         },
+         {
+            "key":"retail_sales",
+            "value":"Retail Sales"
+         },
+         {
+            "key":"sales_representative",
+            "value":"Sales Representative"
+         },
+         {
+            "key":"pharma",
+            "value":"Pharma"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"kyvqzqsxqr@gmail.com"
+   },
+   {
+      "highest_education":"10th Pass",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09ff057315fa00299b1ef8_1577714827168.png",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"office_admin_hr",
+               "value":"Office, Admin & HR"
+            },
+            "specialization":[
+               {
+                  "key":"admin_front_office",
+                  "value":"Admin / Front Office"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"hospitality_restaurant",
+               "value":"Hospitality & Restaurant"
+            },
+            "specialization":[
+               {
+                  "key":"chef_cook",
+                  "value":"Chef & Cook"
+               }
+            ]
+         },
+         {
+            "category":{
+               "key":"travel_tourism",
+               "value":"Travel & Tourism"
+            },
+            "specialization":[
+               {
+                  "key":"housekeeping",
+                  "value":"Housekeeping"
+               }
+            ]
+         }
+      ],
+      "id":28,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"Kapis Chandra",
+      "skills":[
+         {
+            "key":"customer_service",
+            "value":"Customer Service"
+         },
+         {
+            "key":"executive_assistant",
+            "value":"Executive Assistant"
+         },
+         {
+            "key":"back_office",
+            "value":"Back Office"
+         },
+         {
+            "key":"receptionist",
+            "value":"Receptionist"
+         },
+         {
+            "key":"ms_office",
+            "value":"Ms Office"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"ydnmtkzkex@gmail.com"
+   },
+   {
+      "status":"",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":false,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/5e09edc0823799002a6eeba8_1577709195279.jpeg",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"frontend_web_development",
+                  "value":"Frontend / Web Development"
+               },
+               {
+                  "key":"backend_development",
+                  "value":"Backend Development"
+               }
+            ]
+         }
+      ],
+      "id":29,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":25000,
+            "min":21000
+         },
+         "unit":"monthly"
+      },
+      "name":"DHIRENDRA KUMAR",
+      "skills":[
+         {
+            "key":"front_end",
+            "value":"Front End"
+         },
+         {
+            "key":"java",
+            "value":"Java"
+         },
+         {
+            "key":"web_technologies",
+            "value":"Web Technologies"
+         },
+         {
+            "key":"sql_server",
+            "value":"Sql Server"
+         },
+         {
+            "key":"javascript",
+            "value":"Javascript"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"somijgmivo@gmail.com"
+   },
+   {
+      "status":"",
+      "highest_education":"Graduate",
+      "total_experience_in_year":"Fresher",
+      "is_unlocked":true,
+      "profile_pic_url":"https://storage.googleapis.com/nakula/1577698269778-308d76107ae0fa126c5e80573b3a187e096a81780ccb58f7d9f6200c0ef9_256x256",
+      "matching_score":4005.1477,
+      "preferred_job_type":[
+         {
+            "category":{
+               "key":"it_software",
+               "value":"IT & Software"
+            },
+            "specialization":[
+               {
+                  "key":"analytics_data_science",
+                  "value":"Analytics / Data Science"
+               }
+            ]
+         }
+      ],
+      "id":30,
+      "salary":{
+         "current":0,
+         "expected":{
+            "max":50000,
+            "min":10000
+         },
+         "unit":"monthly"
+      },
+      "name":"bala prajapati",
+      "skills":[
+         {
+            "key":"machine_learning",
+            "value":"Machine Learning"
+         },
+         {
+            "key":"sql",
+            "value":"Sql"
+         },
+         {
+            "key":"analytics",
+            "value":"Analytics"
+         },
+         {
+            "key":"business_analyst",
+            "value":"Business Analyst"
+         },
+         {
+            "key":"data_structure",
+            "value":"Data Structure"
+         }
+      ],
+      "displayText":"Top candidate nearby",
+      "email":"qpemekxjum@gmail.com"
+   }
+]

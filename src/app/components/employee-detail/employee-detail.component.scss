@@ -1,0 +1,25 @@
+
+.card {
+    display: flex;
+    align-items:center;
+    background: white;
+    text-align:center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 700px;
+    font-family: 'Arial', sans-serif;
+    gap: 15px;
+}
+.container {
+    display: flex;
+    background: radial-gradient(circle, #E0E0E0 30%, #B3E5FC 100%);
+    font-size:14px;
+    flex-direction: column;
+    align-items: center; /* Centers the profile blocks */
+    justify-content: center;
+    min-height: 100vh; /* Ensures vertical centering */
+}
+

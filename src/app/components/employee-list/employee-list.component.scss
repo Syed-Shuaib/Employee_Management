@@ -1,0 +1,166 @@
+.container {
+  display: flex;
+  font-size:14px;
+  flex-direction: column;
+  align-items: center; /* Centers the profile blocks */
+  justify-content: center;
+  min-height: 100vh; /* Ensures vertical centering */
+}
+
+.col-md-4 {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Centers each card */
+}
+
+.card {
+  display: flex;
+  align-items:center;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 700px;
+  font-family: 'Arial', sans-serif;
+  gap: 15px;
+}
+
+.card-img-top {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card-header{
+  width: 40%;
+}
+
+.card-body {
+  flex-grow: 1;
+  display: flex;
+  align-items : center;
+  justify-content:space-between;
+  width: 100%;
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+  text-align:left;
+}
+.card-info{
+  display:flex;
+  flex-direction: column;
+  align-items:flex-end;
+  justify-content: flex-start;
+  text-align:left;
+}
+
+.card-text {
+  font-size: 12px;
+  color: #555;
+  margin: 2px 0;
+  flex-direction: column;
+  align-items:flex-start;
+  text-align:left;
+  justify-content: start;
+}
+
+.experience {
+  color: #007bff;
+  font-weight: 300;
+  font-size: 12px;
+  text-decoration: none;
+  margin-top: 5px;
+  text-align:left;
+}
+
+.skills {
+  font-size: 13px;
+  font-weight: bold;
+  color: #777;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 15px;
+  width:40%;
+}
+
+.btn-inner {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+}
+.email {
+  margin-left: auto;  /* Pushes everything else to the right */
+}
+
+.btn-primary {
+  display: flex;
+  align-items: center;  /* Centers vertically */
+  justify-content: center; /* Centers horizontally (optional) *//* Set height as needed */
+  text-align: center;
+  background-color: transparent;
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px ;
+}
+
+.btn-primary:hover {
+  text-decoration: underline;
+}
+
+.btn-unlock {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  flex-direction: column;;
+  gap: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.3s ease-in-out;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+.text-danger{
+  color:red;
+  padding:10px 15px;
+  gap: 5px;
+}
+.btn-unlock:hover {
+  background-color: hsl(103, 100%, 35%);
+}
+
+.btn-unlock:active {
+  transform: scale(0.98);
+}
+
+.btn-unlock::before {
+  font-size: 16px;
+}
+
+.salary{
+  text-align: center;
+}
+
+

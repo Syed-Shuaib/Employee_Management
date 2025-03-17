@@ -1,0 +1,31 @@
+<div class="container">
+  <div class="card">
+    <div *ngIf="employee">
+      <h2>{{ employee.name }}</h2>
+      <img [src]="employee.profile_pic_url" alt="Profile Image">
+      <p class="education"><strong>Highest Education:</strong>{{ employee.highest_education }} </p>
+      <p class="experience"><strong>Experience:</strong>{{ employee.total_experience_in_year }} </p>
+
+      <strong>Category:</strong>
+      <span *ngFor="let jobType of employee.preferred_job_type; let i = index">
+          {{ jobType.category.value }}
+          <span *ngIf="i < employee.preferred_job_type.length - 1">, </span>
+      </span>
+      <p class="card-text salary"><strong>Expected Salary: {{ employee.salary.expected.max }}</strong></p>
+      <p class="card-text">
+        <strong>Skills:</strong> 
+        <span *ngFor="let skill of employee.skills; let i = index">
+            {{ skill.value }}<span *ngIf="i < 1">, </span>
+        </span>
+      </p>
+      <strong>Specialization:</strong> 
+      <span *ngFor="let jobType of employee.preferred_job_type; let i = index">
+          <span *ngFor="let specialization of jobType.specialization; let j = index">
+              {{ specialization.value }}<span *ngIf="!(i === employee.preferred_job_type.length - 1 && j === jobType.specialization.length - 1)">, </span>
+          </span>
+      </span>
+      <p><strong>Email:</strong> {{ employee.email }}</p>
+    </div>
+  </div>
+</div>
+  
